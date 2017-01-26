@@ -1,0 +1,1 @@
+var app = angular.module('Customers', []).constant('API_URL','http://localhost/project/public/api/');
